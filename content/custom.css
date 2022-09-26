@@ -1,6 +1,6 @@
 #previewFull {
-  background-color: #E1E6F5 !important;
-  width: 1122px !important;
+  background-color: #666666 !important;
+  width: 1282px !important;
   color: inherit;
 }
 
@@ -8,7 +8,7 @@
 }
 
 body {
-  background-color: #F9FBFF !important;
+  background-color: #4C4C4C !important;
   color: inherit;
 }
 
@@ -21,7 +21,7 @@ body {
 }
 
 .borderRight {
-  border-right: 1px solid #FFFFFF !important;
+  border-right: 1px solid #787878 !important;
 }
 
 .logo {
@@ -29,7 +29,7 @@ body {
 }
 
 .detailText {
-  color: #304274 !important;
+  color: #B3B3B3 !important;
   background-color: inherit;
 }
 
@@ -38,59 +38,59 @@ body {
 }
 
 .thumbnail {
-  background-color: #E5E5E5 !important;
+  background-color: #949494 !important;
   color: inherit;
 }
 
 #wrapper_thumb {
-  width: 1128px !important;
+  width: 1289px !important;
 }
 
 #stage2 {
-  width: 1128px !important;
+  width: 1289px !important;
 }
 
 .itemNumber {
-  color: #B7BFDA !important;
+  color: #9C9C9C !important;
   display: inherit !important;
   background-color: inherit;
 }
 
 .caption {
-  color: #0D3C96 !important;
+  color: #B3B3B3 !important;
   background-color: inherit;
 }
 
 .borderTopLeft {
-  border-top: 1px solid #FFFFFF !important;
-  border-left: 1px solid #FFFFFF !important;
+  border-top: 1px solid #787878 !important;
+  border-left: 1px solid #787878 !important;
 }
 
 .selectedThumbnail, .thumbnail:hover {
-  background-color: #EAEEFE !important;
+  background-color: #A1A1A1 !important;
   color: inherit;
 }
 
 .borderRightDotted {
-  border-right: 1px dotted #FFFFFF !important;
+  border-right: 1px dotted #787878 !important;
 }
 
 .borderBottomRight {
-  border-right: 1px solid #FFFFFF !important;
-  border-bottom: 1px solid #FFFFFF !important;
+  border-right: 1px solid #787878 !important;
+  border-bottom: 1px solid #787878 !important;
 }
 
 #wrapper_large {
-  width: 1128px !important;
+  width: 1289px !important;
 }
 
 .emptyThumbnail {
-  background-color: #E5E5E5 !important;
+  background-color: #949494 !important;
   color: inherit;
 }
 
 #previewImage {
-  maxSize: 450.00 !important;
+  maxSize: 1024.00 !important;
 }
 
 .paginationLinks, .pagination, #liveUpdatePagination {
@@ -104,11 +104,11 @@ body {
 }
 
 .borderBottom {
-  border-bottom: 1px solid #FFFFFF !important;
+  border-bottom: 1px solid #787878 !important;
 }
 
 #stage {
-  width: 1128px !important;
+  width: 1289px !important;
 }
 
 .textColor {
